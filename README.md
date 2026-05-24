@@ -3,10 +3,11 @@
 ## 🎯 Project Goal
 Automatically identify which Data Analyst jobs are the best fit for me, avoiding endless scrolling through job boards! and analyze the Israeli job market through data analysis and visualization.
 
+This project also includes an AI-powered cv and cover letter personalization workflow for job applications.
+
 
 <img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 12_40_46 PM" src="https://github.com/user-attachments/assets/8600e343-36aa-4877-b729-3a693e02e286" />
 
-This project also includes an AI-powered cv and cover letter personalization workflow for job applications.
 
 ---
 
