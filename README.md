@@ -1,11 +1,12 @@
-# Data Analyst Job Market in Israel
+# Data Analyst Job Seeker pipeline
 
 ## 🎯 Project Goal
-Track Data Analyst job postings in Israel and analyze the market while automatically evaluating how relevant each role is for me — eliminating the need to manually scroll through hundreds of postings.
+Automatically identify which Data Analyst jobs are the best fit for me, avoiding endless scrolling through job boards! and analyze the Israeli job market through data analysis and visualization.
 
 
-<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/21f3b217-57fe-4899-820f-935d993d0468" />
+<img width="1536" height="1024" alt="ChatGPT Image May 24, 2026, 12_40_46 PM" src="https://github.com/user-attachments/assets/8600e343-36aa-4877-b729-3a693e02e286" />
 
+This project also includes an AI-powered cv and cover letter personalization workflow for job applications.
 ---
 
 ## ⚙️ What the Project Does
@@ -65,6 +66,20 @@ Track Data Analyst job postings in Israel and analyze the market while automatic
 - Build a personalized job recommendation engine  
 - Develop a lightweight app for browsing top matches  
 - Add real-time alerts for high-fit job postings  
+
+## ✍️ Personalized CV & Cover Letter Workflow
+
+Using checkboxes inside the Google Sheets job database, I can instantly trigger workflows that generate tailored CVs and cover letters for specific positions.
+
+The AI adapts my existing templates using:
+- My professional background and experience  
+- My personal writing style and tone  
+- Detailed instructions and optimization rules  
+- The requirements of the specific job posting  
+
+The goal is to create applications that feel authentic, personalized, and highly relevant — while still sounding completely natural and like me.
+
+Final versions are automatically generated and saved to Google Drive, ready to send.
 
 ---
 
