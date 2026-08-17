@@ -24,7 +24,8 @@ This project also includes an AI-powered cv and cover letter personalization wor
 ---
 
 ## 💡👀 A Peek at the Job Dataset
-<img width="1312" height="436" alt="Screenshot 2026-08-17 063551" src="https://github.com/user-attachments/assets/45913cab-7ea6-44e9-aad9-19844eaa6c5b" />
+
+<img width="1189" height="395" alt="Screenshot 2026-08-17 063551 two" src="https://github.com/user-attachments/assets/852835f9-a7b3-42da-a9e5-e2e1d4e77f38" />
 <img width="951" height="395" alt="example data job seeker 2" src="https://github.com/user-attachments/assets/459506fd-15e5-4233-9960-77de0cc51794" />
 
 
