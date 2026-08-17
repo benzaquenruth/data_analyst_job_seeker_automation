@@ -23,6 +23,32 @@ This project also includes an AI-powered cv and cover letter personalization wor
 
 ---
 
+## 💡👀 A Peek at the Job Dataset
+
+<img width="951" height="395" alt="example data job seeker 2" src="https://github.com/user-attachments/assets/851afce0-d09e-4290-9971-a48d6d3b5fa6" />
+<img width="1356" height="400" alt="example data job seeker " src="https://github.com/user-attachments/assets/a09b45d2-fa10-4a46-b86a-a33e402d81a1" />
+
+- Title : Job title.
+- Job Description : Full job description.
+- Platform : Source platform (LinkedIn or Indeed).
+- Link : Original job posting URL.
+- Date : Date the job was posted.
+- Rating :  Overall job rating - includes 'fit for the job' score and others. Example, if in Tel Aviv, add 2 points.
+- Fit for the job : From 1 to 4, how well my skills match the job requirements. 
+- Reasoning — Explanation behind the scores ('Rating' and 'Fit for the job' scores)
+- Company Name : Hiring company.
+- Cover Letter : Text of the Generated cover letter, when applicable.
+- City : Job location.
+- Remote : Whether the role is remote.
+- Status : Application status.
+- Cover trigger — Checking the box triggers cover letter generation.
+- CV trigger — Whether a tailored CV should be generated.
+- experience_bucket : Required experience level.
+- experience_reason : Checking the box triggers tailored CV generation.
+- skills : Skills extracted from the job description.
+
+---
+
 ## 🔄 Current Pipeline
 1. Collect job postings automatically (n8n workflows)  
 2. Extract and structure job data using AI agents  
