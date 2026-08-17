@@ -29,6 +29,7 @@ This project also includes an AI-powered cv and cover letter personalization wor
 <img width="1170" height="395" alt="example data job seeker 2" src="https://github.com/user-attachments/assets/459506fd-15e5-4233-9960-77de0cc51794" />
 <br>
 <br>
+
 - Title : Job title.
 - Job Description : Full job description.
 - Platform : Source platform (LinkedIn or Indeed).
