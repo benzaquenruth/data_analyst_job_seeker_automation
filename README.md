@@ -25,8 +25,8 @@ This project also includes an AI-powered cv and cover letter personalization wor
 
 ## 💡👀 A Peek at the Job Dataset
 <br>
-<img width="1170" height="395" alt="Screenshot 2026-08-17 063551 two" src="https://github.com/user-attachments/assets/852835f9-a7b3-42da-a9e5-e2e1d4e77f38" />
-<img width="1170" height="395" alt="example data job seeker 2" src="https://github.com/user-attachments/assets/459506fd-15e5-4233-9960-77de0cc51794" />
+<img width="1165" height="395" alt="Screenshot 2026-08-17 063551 two" src="https://github.com/user-attachments/assets/852835f9-a7b3-42da-a9e5-e2e1d4e77f38" />
+<img width="1165" height="395" alt="example data job seeker 2" src="https://github.com/user-attachments/assets/459506fd-15e5-4233-9960-77de0cc51794" />
 <br>
 <br>
 
@@ -37,14 +37,14 @@ This project also includes an AI-powered cv and cover letter personalization wor
 - Date : Date the job was posted.
 - Rating :  Overall job rating - includes 'fit for the job' score and others. Example, if in Tel Aviv, add 2 points.
 - Fit for the job : From 1 to 4, how well my skills match the job requirements. 
-- Reasoning — Explanation behind the scores ('Rating' and 'Fit for the job' scores)
+- Reasoning : Explanation behind the scores ('Rating' and 'Fit for the job' scores)
 - Company Name : Hiring company.
 - Cover Letter : Text of the Generated cover letter, when applicable.
 - City : Job location.
 - Remote : Whether the role is remote.
 - Status : Application status.
-- Cover trigger — Checking the box triggers cover letter generation.
-- CV trigger — Whether a tailored CV should be generated.
+- Cover trigger : Checking the box triggers cover letter generation.
+- CV trigger : Whether a tailored CV should be generated.
 - experience_bucket : Required experience level.
 - experience_reason : Checking the box triggers tailored CV generation.
 - skills : Skills extracted from the job description.
